@@ -121,9 +121,8 @@ printout of each PC shows that they are in fact distinct:
   ~~~
   -------------------------------------------
 
-![](.//media/image1.png){width="3.4743055555555555in"
-height="2.6659722222222224in"}![](.//media/image2.png){width="3.125in"
-height="2.5034722222222223in"}
+![](.//media/image1.png)
+![](.//media/image2.png)
 
 *SVD PC results (in blue). Original data distribution shown in black. I
 achieved the one-dimensional projection by projecting onto a single PC
@@ -135,8 +134,7 @@ Projecting our data onto our first principal component for each shows us
 that, although the two do have a defined mathematical proportion, they
 are not equal.
 
-![](.//media/image3.png){width="4.291666666666667in"
-height="3.423611111111111in"}
+![](.//media/image3.png)
 
 ### Projecting onto Principal Components in Two Dimensions
 
@@ -149,8 +147,7 @@ It appeared that the PCA and SVD function outputs are inverse of each
 other. Sure enough, multiplying one by (-1) yields two identical plots:
 
 ![](.//media/image5.png)
-![](.//media/image6.png){width="3.088888888888889in"
-height="2.3805555555555555in"}
+![](.//media/image6.png)
 
 This tells us that between the two methods, the relationships between
 the data on the first two principal components are the same, only one is
