@@ -148,8 +148,8 @@ scatterplot:
 It appeared that the PCA and SVD function outputs are inverse of each
 other. Sure enough, multiplying one by (-1) yields two identical plots:
 
-![](.//media/image5.png){width="3.1166666666666667in"
-height="2.411111111111111in"}![](.//media/image6.png){width="3.088888888888889in"
+![](.//media/image5.png)
+![](.//media/image6.png){width="3.088888888888889in"
 height="2.3805555555555555in"}
 
 This tells us that between the two methods, the relationships between
